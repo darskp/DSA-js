@@ -1,5 +1,7 @@
 //library
-var rotate = function (arr, k) {
+//leetcode.com/problems/rotate-array/
+
+https: var rotate = function (arr, k) {
   const size = arr.length;
 
   if (k > arr.length) {
