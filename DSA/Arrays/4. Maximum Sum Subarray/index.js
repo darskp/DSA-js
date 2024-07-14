@@ -22,5 +22,4 @@ for (let i = 0; i < nums.length; i++) {
     }
 }
 
-
 console.log(max,nums.slice(start,end+1))
